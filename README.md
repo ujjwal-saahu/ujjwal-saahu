@@ -326,43 +326,34 @@ ujjwal = {
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRjYW9wN2c1YzJ1MWFrN2Q4d2V0MzFhZ2g0c2d1bTE0czR1a3N0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKsQ8UQf4N0HtkA/giphy.gif" width="70" />
 
-### ✨ Let’s build something meaningful together
+## 💬 Let's Connect
 
-💡 I’m open to collaborating on **AI, Healthcare AI, LLM applications, Data Science, Cybersecurity, Cloud, and Software Engineering** projects.
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80" />
+
+### 🌟 Thanks for visiting my profile
+
+I’d be happy to connect, collaborate, and work on exciting projects in  
+**AI • Healthcare AI • LLMs • Data Science • Cybersecurity • Cloud • Software Engineering**
 
 <br>
 
 <a href="mailto:ujjwalsahu2016@email.com">
-  <img src="https://img.shields.io/badge/💌_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💌_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/ujjwal-sahu/">
-  <img src="https://img.shields.io/badge/🌸_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌷_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/ujjwal-saahu">
-  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/✨_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<table>
-<tr>
-<td align="center" width="220">
-<img src="https://img.icons8.com/fluency/48/handshake.png" width="40"/><br>
-<b>Collaboration</b><br>
-<sub>AI, research, and real-world systems</sub>
-</td>
-<td align="center" width="220">
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"/><br>
-<b>AI Projects</b><br>
-<sub>LLMs, NLP, healthcare, and multimodal apps</sub>
-</td>
-<td align="center" width="220">
-<img src="https://img.icons8.com/fluency/48/source-code.png" width="40"/><br>
-<b>Development</b><br>
-<sub>Flutter, APIs, deployment, and software systems</sub>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-AI%20Projects-8a2be2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Research%20Work-00c896?style=for-the-badge" />
 
 </div>
 
