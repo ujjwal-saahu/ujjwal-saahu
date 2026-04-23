@@ -276,7 +276,7 @@ ujjwal = {
 <br>
 <sub>AWS, Azure & automation</sub>
 <br><br>
-<img src="https://img.shields.io/badge/●-High-00D084?style=flat-square&labelColor=1a1a1a" alt="High Priority"/>
+<img src="https://img.shields.io/badge/●-Medium-FFB84D?style=flat-square&labelColor=1a1a1a" alt="Medium Priority"/>
 </td>
 </tr>
 
@@ -318,7 +318,7 @@ ujjwal = {
 <br>
 <sub>CI/CD, automation & deployment</sub>
 <br><br>
-<img src="https://img.shields.io/badge/●-High-00D084?style=flat-square&labelColor=1a1a1a" alt="High Priority"/>
+<img src="https://img.shields.io/badge/●-Medium-FFB84D?style=flat-square&labelColor=1a1a1a" alt="Medium Priority"/>
 </td>
 </tr>
 </table>
