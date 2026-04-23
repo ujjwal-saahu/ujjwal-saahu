@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ujjwal%20Sahu&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header"/>
 
 <a href="https://github.com/ujjwal-saahu">
-  <img src="https://readme-typing-svg.demolab.com?<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=AI+Researcher+%F0%9F%A4%96;LLM+%26+GenAI+Engineer+%F0%9F%92%A1;Data+Science+%F0%9F%93%8A;Cybersecurity+%F0%9F%94%90;Cloud+%26+Hybrid+Cloud+%E2%98%81%EF%B8%8F;Healthcare+AI+%F0%9F%A9%BA;Flutter+%2B+On-device+AI+%F0%9F%93%B1" alt="Typing Animation"/>
+  font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=AI+Researcher+%F0%9F%A4%96;LLM+Engineer+%F0%9F%92%A1;Data+Science+%F0%9F%93%8A;Cybersecurity+%F0%9F%94%90;Cloud+Computing+%E2%98%81%EF%B8%8F;Healthcare+AI+%F0%9F%A9%BA;Flutter+%2B+On-device+AI+%F0%9F%93%B1
 </a>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ujjwal-saahu.ujjwal-saahu" />
