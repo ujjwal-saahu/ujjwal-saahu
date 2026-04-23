@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ujjwal%20Sahu&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header"/>
 
 <a href="https://github.com/ujjwal-saahu">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=1500&height=60&lines=AI+Researcher+%7C+LLM+Engineer+%7C+Data+Science+%7C+Cybersecurity+%7C+Cloud+%26+Hybrid+Cloud+%7C+Healthcare+AI+%7C+Flutter+%2B+On-device+AI" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=1500&height=60&lines=AI+Researcher+%7C+LLM+Engineer+%7C+Data+Science+%7C+Cybersecurity+%7C+Hybrid+Cloud+%7C+Healthcare+AI+%7C+Flutter+%2B+On-device+AI" alt="Typing Animation"/>
 </a>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ujjwal-saahu.ujjwal-saahu" />
