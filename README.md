@@ -80,7 +80,7 @@ ujjwal = {
 <br>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,jupyter&perline=8" />
 <br><br>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
 <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white" />
 </details>
 
@@ -89,8 +89,8 @@ ujjwal = {
 <br>
 <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,postman&perline=6" />
 <br><br>
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=222222" />
 </details>
 
 <details open>
@@ -98,8 +98,8 @@ ujjwal = {
 <br>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,cmake&perline=6" />
 <br><br>
-<img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </details>
 
 ---
