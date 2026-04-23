@@ -159,22 +159,22 @@ ujjwal = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details open>
-  <summary><h2>📌 Featured Work</h2></summary>
+  <summary><h2>📌 Pinned Project</h2></summary>
 
   <table align="center">
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/ujjwal-saahu">
+        <a href="https://github.com/ujjwal-saahu/Aphasia_APE_Cue_Generator">
           <img 
             src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal-saahu&repo=Aphasia_APE_Cue_Generator&theme=tokyonight&hide_border=true"
             alt="Aphasia_APE_Cue_Generator" />
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/ujjwal-saahu">
+        <a href="https://github.com/ujjwal-saahu/HybridGuard">
           <img 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal-saahu&repo=Anxiety_App&theme=tokyonight&hide_border=true"
-            alt="Anxiety_App" />
+            src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal-saahu&repo=HybridGuard&theme=tokyonight&hide_border=true"
+            alt="HybridGuard" />
         </a>
       </td>
     </tr>
@@ -388,5 +388,11 @@ ujjwal = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**🌸 From [Ujjwal Sahu](https://github.com/ujjwal-saahu) • Built with 💙 and ☕**
+
+<!--*Last Updated: April 2026*-->
+
 </div>
