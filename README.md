@@ -240,7 +240,7 @@ ujjwal = {
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="48" height="48" alt="AI"/>
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="48" height="48" alt="LLMs"/>
 <br><br>
 <strong>LLMs</strong>
 <br>
@@ -248,8 +248,9 @@ ujjwal = {
 <br><br>
 <img src="https://img.shields.io/badge/●-High-00D084?style=flat-square&labelColor=1a1a1a" alt="High Priority"/>
 </td>
+
 <td align="center" width="200">
-<img src="https://img.icons8.com/fluency/96/000000/medical-doctor.png" width="48" height="48" alt="Healthcare"/>
+<img src="https://img.icons8.com/fluency/96/medical-doctor.png" width="48" height="48" alt="Healthcare AI"/>
 <br><br>
 <strong>Healthcare AI</strong>
 <br>
@@ -257,8 +258,9 @@ ujjwal = {
 <br><br>
 <img src="https://img.shields.io/badge/●-High-00D084?style=flat-square&labelColor=1a1a1a" alt="High Priority"/>
 </td>
+
 <td align="center" width="200">
-<img src="https://img.icons8.com/fluency/96/000000/smartphone-tablet.png" width="48" height="48" alt="Mobile"/>
+<img src="https://img.icons8.com/fluency/96/smartphone-tablet.png" width="48" height="48" alt="Mobile AI"/>
 <br><br>
 <strong>Mobile AI</strong>
 <br>
@@ -266,14 +268,51 @@ ujjwal = {
 <br><br>
 <img src="https://img.shields.io/badge/●-High-00D084?style=flat-square&labelColor=1a1a1a" alt="High Priority"/>
 </td>
+
 <td align="center" width="200">
-<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="48" height="48" alt="Cloud"/>
+<img src="https://img.icons8.com/fluency/96/cloud.png" width="48" height="48" alt="Cloud Systems"/>
 <br><br>
 <strong>Cloud Systems</strong>
 <br>
 <sub>AWS, Azure & automation</sub>
 <br><br>
 <img src="https://img.shields.io/badge/●-Medium-FFB84D?style=flat-square&labelColor=1a1a1a" alt="Medium Priority"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="48" height="48" alt="Data Science"/>
+<br><br>
+<strong>Data Science</strong>
+<br>
+<sub>Data analysis & model building</sub>
+<br><br>
+<img src="https://img.shields.io/badge/●-High-00D084?style=flat-square&labelColor=1a1a1a" alt="High Priority"/>
+</td>
+
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/privacy.png" width="48" height="48" alt="Cybersecurity"/>
+<br><br>
+<strong>Cybersecurity</strong>
+<br>
+<sub>Security analytics & defense</sub>
+<br><br>
+<img src="https://img.shields.io/badge/●-Medium-FFB84D?style=flat-square&labelColor=1a1a1a" alt="Medium Priority"/>
+</td>
+
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/96/chatbot.png" width="48" height="48" alt="NLP"/>
+<br><br>
+<strong>NLP</strong>
+<br>
+<sub>Language models & text systems</sub>
+<br><br>
+<img src="https://img.shields.io/badge/●-High-00D084?style=flat-square&labelColor=1a1a1a" alt="High Priority"/>
+</td>
+
+<td align="center" width="200">
+&nbsp;
 </td>
 </tr>
 </table>
@@ -285,25 +324,49 @@ ujjwal = {
 
 <div align="center">
 
-**I’m open to collaborating on AI, healthcare AI, LLM applications, and software engineering projects.**
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRjYW9wN2c1YzJ1MWFrN2Q4d2V0MzFhZ2g0c2d1bTE0czR1a3N0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKsQ8UQf4N0HtkA/giphy.gif" width="70" />
 
-<br/>
+### ✨ Let’s build something meaningful together
+
+💡 I’m open to collaborating on **AI, Healthcare AI, LLM applications, Data Science, Cybersecurity, Cloud, and Software Engineering** projects.
+
+<br>
 
 <a href="mailto:ujjwalsahu2016@email.com">
-  <img src="https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💌_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/ujjwal-sahu/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌸_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/ujjwal-saahu">
-  <img src="https://img.shields.io/badge/🌐_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="220">
+<img src="https://img.icons8.com/fluency/48/handshake.png" width="40"/><br>
+<b>Collaboration</b><br>
+<sub>AI, research, and real-world systems</sub>
+</td>
+<td align="center" width="220">
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"/><br>
+<b>AI Projects</b><br>
+<sub>LLMs, NLP, healthcare, and multimodal apps</sub>
+</td>
+<td align="center" width="220">
+<img src="https://img.icons8.com/fluency/48/source-code.png" width="40"/><br>
+<b>Development</b><br>
+<sub>Flutter, APIs, deployment, and software systems</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 ```diff
 + AI Researcher
