@@ -298,7 +298,7 @@ ujjwal = {
 <br>
 <sub>Security analytics & defense</sub>
 <br><br>
-<img src="https://img.shields.io/badge/●-Medium-FFB84D?style=flat-square&labelColor=1a1a1a" alt="Medium Priority"/>
+<img src="https://img.shields.io/badge/●-Medium-FFB84D?style=flat-square&labelColor=1a1a1a" alt="High Priority"/>
 </td>
 
 <td align="center" width="200">
@@ -312,7 +312,13 @@ ujjwal = {
 </td>
 
 <td align="center" width="200">
-&nbsp;
+<img src="https://img.icons8.com/fluency/96/workflow.png" width="48" height="48" alt="DevOps"/>
+<br><br>
+<strong>DevOps</strong>
+<br>
+<sub>CI/CD, automation & deployment</sub>
+<br><br>
+<img src="https://img.shields.io/badge/●-Medium-FFB84D?style=flat-square&labelColor=1a1a1a" alt="High Priority"/>
 </td>
 </tr>
 </table>
@@ -320,11 +326,7 @@ ujjwal = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💬 Let's Connect
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRjYW9wN2c1YzJ1MWFrN2Q4d2V0MzFhZ2g0c2d1bTE0czR1a3N0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKsQ8UQf4N0HtkA/giphy.gif" width="70" />
 
 ## 💬 Let's Connect
 
