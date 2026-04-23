@@ -72,25 +72,34 @@ ujjwal = {
 <details open>
 <summary><b>💻 Languages</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,sql,c&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,dart,swift,ruby,php,html,css,sql,cpp,c&perline=7" />
 </details>
 
 <details open>
-<summary><b>🧠 AI / ML</b></summary>
+<summary><b>🧠 AI / ML / Data Science</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,jupyter&perline=8" />
+<br><br>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white" />
 </details>
 
 <details open>
-<summary><b>📱 App / Development</b></summary>
+<summary><b>🚀 App / Backend / API</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,postman&perline=6" />
+<br><br>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </details>
 
 <details open>
-<summary><b>☁️ Cloud / Tools</b></summary>
+<summary><b>☁️ Cloud / DevOps / CI-CD</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,cmake&perline=6" />
+<br><br>
+<img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white" />
 </details>
 
 ---
