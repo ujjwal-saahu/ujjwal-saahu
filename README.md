@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ujjwal%20Sahu&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header"/>
 
 <a href="https://github.com/ujjwal-saahu">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=AI+Researcher+%F0%9F%A4%96;LLM+Engineer+%F0%9F%92%A1;Healthcare+AI+%F0%9F%A9%BA;Flutter+%2B+On-device+AI+%F0%9F%93%B1" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=AI+Researcher+%F0%9F%A4%96;LLM+%26+GenAI+Engineer+%F0%9F%92%A1;Data+Science+%F0%9F%93%8A;Cybersecurity+%F0%9F%94%90;Cloud+%26+Hybrid+Cloud+%E2%98%81%EF%B8%8F;Healthcare+AI+%F0%9F%A9%BA;Flutter+%2B+On-device+AI+%F0%9F%93%B1" alt="Typing Animation"/>
 </a>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ujjwal-saahu.ujjwal-saahu" />
@@ -31,11 +31,11 @@
 
 ## 🚀 About Me
 
-🔭 I’m currently working on **AI-driven healthcare systems, LLM applications, and multimodal mobile deployment**
+🔭 I’m currently working on **AI-driven healthcare systems, LLM applications, Prompt Engineering and multimodal mobile deployment**
 
 🌱 I’m currently focusing on **LLMs, prompt engineering, on-device AI, and real-time inference pipelines**
 
-💬 Ask me about **Python, Flutter, LLMs, healthcare AI, multimodal systems, AWS, and cloud operations**
+💬 Ask me about **Python, Flutter, LLMs, healthcare AI, multimodal systems, AWS, and cloud operations, Hybrid_Cloud**
 
 ⚡ Fun fact: **I enjoy turning research ideas into real working systems**
 
@@ -188,8 +188,8 @@ ujjwal = {
 |:---|:---|
 | **AI Researcher** | Built AI-driven healthcare systems using LLMs and multimodal models |
 | **Mobile AI Developer** | Designed end-to-end pipelines from data processing to deployment |
-| **Cloud Operations Intern** | Worked with AWS services like SNS, CloudWatch, SQS, and RDS |
-| **Cloud Analyst** | Managed scalable AWS & Azure environments and optimized operations |
+| **Cloud Operations** | Worked with AWS services like SNS, CloudWatch, SQS, and RDS |
+| **Cloud Analyst** | Managed **AWS & Azure hybrid cloud** environments, supported deployment and operations of scalable systems, improved reliability and security, and built a strong foundation for **AI-focused deployment and automation**. |
 
 </div>
 
