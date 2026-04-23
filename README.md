@@ -89,18 +89,15 @@ ujjwal = {
 <br>
 <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,git,github,vscode&perline=6" />
 <br><br>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=222222" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </details>
 
 <details open>
-<summary><b>☁️ Cloud / DevOps / CI-CD</b></summary>
+<summary><b>☁️ Cloud / Tools</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform,jenkins,gitlab,docker,linux,cmake&perline=6" />
-<br><br>
-<img src="https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform,gitlab,jenkins,docker,linux,cmake&perline=6" />
 </details>
 
 <details open>
