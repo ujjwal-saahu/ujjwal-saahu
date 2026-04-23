@@ -104,7 +104,7 @@ ujjwal = {
 
 ---
 
-## 🔥 My Contributions 🔥
+<!-- ## 🔥 My Contributions 🔥
 
 <div align="center">
   <img
@@ -112,7 +112,7 @@ ujjwal = {
     alt="3D GitHub Contribution Graph"
     width="100%"
   />
-</div>
+</div> -->
 
 ## ⚡ GitHub Stats ⚡
 
