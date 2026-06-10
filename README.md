@@ -379,15 +379,9 @@ Built with a modern dark-first interface, responsive layouts, smooth animations,
 
 ## 💬 Let's Connect
 
-
-
 <div align="center">
 
-
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRjYW9wN2c1YzJ1MWFrN2Q4d2V0MzFhZ2g0c2d1bTE0czR1a3N0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKsQ8UQf4N0HtkA/giphy.gif" width="70" />
-
-
 
 ### ✨ Let’s build something meaningful together
 
@@ -455,9 +449,11 @@ Built with a modern dark-first interface, responsive layouts, smooth animations,
 
 </div>
 
+<br>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer" width="100%" />
+</p>
 
 
 
