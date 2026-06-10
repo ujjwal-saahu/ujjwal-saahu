@@ -174,71 +174,56 @@ ujjwal = {
 
 
 <details open>
-  <summary>📌 <b>Pinned Projects</b></summary>
+<summary>📌 <b>Pinned Projects</b></summary>
 
 <br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 AI-Based Aphasia Therapy System</h3>
-      <p><b>Private Repository</b></p>
-      <p>
-        An AI-powered digital therapy platform for aphasia language treatment using
-        LLM-based cue generation, Automatic Prompt Engineering, and visual-semantic support.
-      </p>
-      <p>
-        Built for Traditional Chinese therapy cue generation, prompt optimization,
-        image-supported learning, and tablet/mobile offline deployment.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Private%20Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLM-Healthcare%20AI-06b6d4?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Flutter-Mobile%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      </p>
-    </td>
+### 🧠 AI-Based Aphasia Therapy System
 
-    <td width="50%" valign="top">
-      <h3>🛡️ HybridGuard Intrusion Detection</h3>
-      <p><b>Private Repository</b></p>
-      <p>
-        A cybersecurity research project focused on improving minority-class
-        intrusion detection in Dew-enabled Edge-of-Things environments.
-      </p>
-      <p>
-        Uses GAN-based learning and hybrid machine learning to improve attack
-        detection performance for imbalanced network security datasets.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Private%20Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cybersecurity-ML%20Research-ef4444?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/GAN-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </p>
-    </td>
-  </tr>
+**Private Repository**
 
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🎬 VidIntel AI</h3>
-      <p><b>Private Repository</b></p>
-      <p>
-        An AI-powered video intelligence platform that converts YouTube videos into
-        structured summaries, smart notes, flashcards, quizzes, and learning insights
-        using Generative AI.
-      </p>
-      <p>
-        Built with a modern dark-first interface, responsive layouts, smooth animations,
-        and scalable architecture for AI-based learning and content understanding.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Private%20Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" />
-        <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Generative%20AI-Video%20Intelligence-06b6d4?style=for-the-badge" />
-      </p>
-    </td>
-  </tr>
-</table>
+An AI-powered digital therapy platform for aphasia language treatment using LLM-based cue generation, Automatic Prompt Engineering, and visual-semantic support.
+
+Built for Traditional Chinese therapy cue generation, prompt optimization, image-supported learning, and tablet/mobile offline deployment.
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Private%20Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-Healthcare%20AI-06b6d4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-Mobile%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+---
+
+### 🛡️ HybridGuard Intrusion Detection
+
+**Private Repository**
+
+A cybersecurity research project focused on improving minority-class intrusion detection in Dew-enabled Edge-of-Things environments.
+
+Uses GAN-based learning and hybrid machine learning to improve attack detection performance for imbalanced network security datasets.
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Private%20Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-ML%20Research-ef4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GAN-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 🎬 VidIntel AI
+
+**Private Repository**
+
+An AI-powered video intelligence platform that converts YouTube videos into structured summaries, smart notes, flashcards, quizzes, and learning insights using Generative AI.
+
+Built with a modern dark-first interface, responsive layouts, smooth animations, and scalable architecture for AI-based learning and content understanding.
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Private%20Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Generative%20AI-Video%20Intelligence-06b6d4?style=for-the-badge" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ujjwal-saahu?tab=repositories">
@@ -249,7 +234,6 @@ ujjwal = {
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 
 ## 📚 Experience Highlights
