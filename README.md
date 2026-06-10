@@ -12,7 +12,7 @@
   <a href="https://ujjwaltech.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-00E0C6?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
-  <a href="mailto:ujjwalsahu2016@email.com">
+  <a href="mailto:ujjwalsahu2016@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ujjwal-sahu/">
@@ -426,7 +426,7 @@ Built with a modern dark-first interface, responsive layouts, smooth animations,
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-</div>
+<!--</div> -->
 
 <div align="center">
 
