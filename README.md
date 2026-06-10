@@ -174,23 +174,72 @@ ujjwal = {
 
 
 <details open>
-  <summary><h2>📌 Pinned Project</h2></summary>
+  <summary><h2>📌 Pinned Projects</h2></summary>
 
   <table align="center">
     <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/ujjwal-saahu/Aphasia_APE_Cue_Generator">
-          <img 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal-saahu&repo=Aphasia_APE_Cue_Generator&theme=tokyonight&hide_border=true"
-            alt="Aphasia_APE_Cue_Generator" />
-        </a>
+      <td align="left" width="50%">
+        <h3>🧠 AI-Based Aphasia Therapy System</h3>
+        <p>
+          <b>Private Repository</b>
+        </p>
+        <p>
+          An AI-powered digital therapy platform for aphasia language treatment using
+          LLM-based cue generation, Automatic Prompt Engineering, and visual-semantic support.
+        </p>
+        <p>
+          Built for Traditional Chinese therapy cue generation, prompt optimization,
+          image-supported learning, and tablet/mobile offline deployment.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Private%20Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/LLM-Healthcare%20AI-06b6d4?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Flutter-Mobile%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        </p>
       </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/ujjwal-saahu/HybridGuard">
-          <img 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal-saahu&repo=HybridGuard&theme=tokyonight&hide_border=true"
-            alt="HybridGuard" />
-        </a>
+
+      <td align="left" width="50%">
+        <h3>🛡️ HybridGuard Intrusion Detection</h3>
+        <p>
+          <b>Private Repository</b>
+        </p>
+        <p>
+          A cybersecurity research project focused on improving minority-class
+          intrusion detection in Dew-enabled Edge-of-Things environments.
+        </p>
+        <p>
+          Uses GAN-based learning and hybrid machine learning to improve attack
+          detection performance for imbalanced network security datasets.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Private%20Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Cybersecurity-ML%20Research-ef4444?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/GAN-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+
+    <tr>
+      <td align="left" colspan="2">
+        <h3>🎬 VidIntel AI</h3>
+        <p>
+          <b>Private Repository</b>
+        </p>
+        <p>
+          An AI-powered video intelligence platform that converts YouTube videos into
+          structured summaries, smart notes, flashcards, quizzes, and learning insights
+          using Generative AI.
+        </p>
+        <p>
+          Built with a modern dark-first interface, responsive layouts, smooth animations,
+          and scalable architecture for AI-based learning and content understanding.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Private%20Repo-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" />
+          <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Generative%20AI-Video%20Intelligence-06b6d4?style=for-the-badge" />
+        </p>
       </td>
     </tr>
   </table>
@@ -203,7 +252,6 @@ ujjwal = {
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📚 Experience Highlights
 
 <div align="center">
